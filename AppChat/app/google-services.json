@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541523538149",
+    "firebase_url": "https://chatmess-f9826.firebaseio.com",
+    "project_id": "chatmess-f9826",
+    "storage_bucket": "chatmess-f9826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541523538149:android:5c86d80b6799bb9e",
+        "android_client_info": {
+          "package_name": "com.example.nhanne.chatmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541523538149-eagt1gfh1mmbtmm58m1nk4hd4mf9kjd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX6Nu3eN46ZM-lh1M75S5XpU34cZiTIR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
